@@ -1,6 +1,11 @@
 # niceTouch
 Easily calibrate multiple touch and non touch screens on a single linux system.
-NOTE: Xorg only, not wayland, thus for now don't expect your pinephones to work nicely with touchscreen capable lapdocks :c
+
+<b>NOTE: Xorg only, not wayland</b>, thus for now don't expect your pinephones to work nicely with touchscreen capable lapdocks :c<br>
+Wayland doesn't seem to have a way to calibrate and fixup touch stuff?
+
+Ideally Linux should associate touchscreen with specific display, kinda like windows already does, no hassle if you flip (rotate) screen, or change
+which is main display, how displays are placed etc.. (same reason why I can't put Linux on kinda old Windows 8 Intel Atom based tablet, its bc default rotation is phone-like vertical, and tablet has one port for data and charging, battery isn't super good, can't use it much, either charge it or use it with wired keyboard/mouse/etc)
 
 ## Use
 
