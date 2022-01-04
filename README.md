@@ -37,7 +37,7 @@ Developers
 
 ### Pre-requisites
 * Python 3
-* xrandr
+* xorg: xrandr, xinput
 
 ## Contributions/Progress
 
