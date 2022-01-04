@@ -1,5 +1,6 @@
 # niceTouch
 Easily calibrate multiple touch and non touch screens on a single linux system.
+NOTE: Xorg only, not wayland, thus for now don't expect your pinephones to work nicely with touchscreen capable lapdocks :c
 
 ## Use
 
